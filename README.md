@@ -28,3 +28,4 @@
 * O LLM Qwen/Qwen2.5-7B-Instruct-GPTQ-Int8 é um modelo quantizado, e portanto pode oferecer limitações de precisão nas respostas.
 * Banco de similaridade FAISS é indicado apenas para protótipo.
 * Documentos grandes podem apresentar problemas.
+* Este projeto foi feito com a finalidade para estudos e atualmente não possui nenhuma intenção de realizar mais avanços.
